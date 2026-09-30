@@ -9,7 +9,7 @@ Construire un AS et pouvoir le connecter aux AS des autres groupes.
 ## Outils
 
 - Docker : lance les routeurs et les services
-- Kathará : crée les liens de la maquette
+- Kathara : permet la creation de la maquette
 - FRRouting : gère OSPF dans notre AS et BGP avec les AS voisins
 - Git : partage les configurations du groupe et permet le travail en simultaner
 
